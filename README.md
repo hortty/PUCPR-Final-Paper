@@ -78,7 +78,7 @@ This repository contains a robust and modular framework for training, evaluating
 ### 1. Clone the Repository
 
 ```bash
-git https://github.com/MatheusVMariussi/TCC-FER.git
+git clone https://github.com/MatheusVMariussi/FER-Framework.git
 cd TCC-FER
 ```
 
